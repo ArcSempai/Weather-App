@@ -1,6 +1,0 @@
-
-services:
-  - type: web
-    name: weather-frontend
-    env: static
-    staticPublishPath: .
